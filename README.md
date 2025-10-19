@@ -52,12 +52,12 @@ focused on **innovation, teamwork, and professional software development** with 
 ### 📊 GitHub Analytics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AliAbbasQazi&show_icons=true&theme=github_dark&hide_border=true" height="160" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AliAbbasQazi&theme=github-dark&hide_border=true" height="160" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Ali-Qazi-1966&show_icons=true&theme=github_dark&hide_border=true" height="160" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ali-Qazi-1966&theme=github-dark&hide_border=true" height="160" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AliAbbasQazi&layout=compact&theme=github_dark&hide_border=true" height="160" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ali-Qazi-1966&layout=compact&theme=github_dark&hide_border=true" height="160" />
 </p>
 
 ---
