@@ -20,7 +20,7 @@ I’m continuously developing my technical expertise in both **offensive and def
 - 🔐 Ethical Hacking & Network Security  
 - 🧩 Data Structures & Algorithms  
 - 💻 System Programming in **C++**, **Java**, and **Python**  
-- 🐧 Linux Administration (Ubuntu) & Digital Forensics  
+- 🐧 Linux Administrations (Kali, Ubuntu) & Digital Forensics  
 
 ---
 
