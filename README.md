@@ -2,7 +2,7 @@
 <h1 align="center">🌙 Hey there, I'm <span style="color:#58a6ff;">Ali Abbas Qazi</span></h1>
 
 <p align="center">
-  🎓 <b>BS Cyber Security Student</b> &nbsp;|&nbsp; 💻 <b>Aspiring Ethical Hacker</b> &nbsp;|&nbsp; ⚙️ <b>Tech Enthusiast</b>
+  🎓 <b>BS Cyber Security Student</b> &nbsp;|&nbsp; 💻 <b>Aspiring Ethical Hacker</b> &nbsp;|&nbsp; ⚙️ <b>IT & Programming Enthusiast</b>
 </p>
 
 ---
@@ -10,9 +10,9 @@
 ### 🧠 About Me
 
 I'm currently pursuing my **Bachelor’s in Cyber Security** from Pakistan 🇵🇰.  
-With a foundation in **Computer Science, IT, and Programming**, I’m passionate about understanding system-level functionality and developing secure, efficient, and scalable software solutions.  
+With a strong background in **Computer Science, IT, and Programming**, I’m passionate about **understanding vulnerabilities, system behavior, and the principles of digital defense**.  
 
-I aim to bridge the gap between **software engineering and cybersecurity**, continuously improving my technical and analytical skills.
+I’m continuously developing my technical expertise in both **offensive and defensive cybersecurity**, while strengthening my programming foundation to support secure system design.
 
 ---
 
@@ -20,23 +20,23 @@ I aim to bridge the gap between **software engineering and cybersecurity**, cont
 
 - 🔐 Ethical Hacking & Network Security  
 - 🧩 Data Structures & Algorithms  
-- 💻 System Programming in **C++** & **Java**  
-- 🐧 Linux Administration & Digital Forensics  
+- 💻 System Programming in **C++**, **Java**, and **Python**  
+- 🐧 Linux Administration (Ubuntu) & Digital Forensics  
 
 ---
 
 ### 💼 Experience & Roles
 
 - 🧑‍💼 **Team Director** — led and organized multiple university-level events including business expos and sports Olympiads  
-- 🧑‍💻 **IT Lab Assistant** — provided technical support, managed systems, and assisted with software deployment  
-- 💡 **Developer** — building academic and personal projects that integrate programming and cybersecurity practices  
+- 🧑‍💻 **IT Lab Assistant** — provided technical support, managed systems, and assisted with network setup and troubleshooting  
+- 💡 **Developer** — working on projects that combine programming logic with cybersecurity applications  
 
 ---
 
 ### ⚙️ Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=cpp,java,python,linux,git,vscode,visualstudio,html,css,kali,windows&perline=6" />
+  <img src="https://skillicons.dev/icons?i=cpp,java,python,ubuntu,git,vscode,visualstudio,html,css,kali,windows&perline=6" />
 </p>
 
 ---
@@ -45,7 +45,7 @@ I aim to bridge the gap between **software engineering and cybersecurity**, cont
 
 #### 🔹 [AICS DevTech](#)
 A fictional **software development company** created for an entrepreneurship project —  
-focused on **innovation, teamwork, and professional software development** with cybersecurity-inspired solutions.
+focused on **innovation, teamwork, and professional software development** with cybersecurity-oriented design and execution.
 
 ---
 
@@ -66,7 +66,7 @@ focused on **innovation, teamwork, and professional software development** with 
 
 <p align="center">
   <a href="mailto:aliabbasqazi@gmail.com"><img src="https://img.shields.io/badge/Email-58a6ff?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://github.com/AliAbbasQazi"><img src="https://img.shields.io/badge/GitHub-161b22?style=for-the-badge&logo=github&logoColor=white" /></a>
+  <a href="https://github.com/Ali-Qazi-1966"><img src="https://img.shields.io/badge/GitHub-161b22?style=for-the-badge&logo=github&logoColor=white" /></a>
 </p>
 
 ---
