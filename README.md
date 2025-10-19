@@ -9,8 +9,7 @@
 
 ### 🧠 About Me
 
-I'm currently pursuing my **Bachelor’s in Cyber Security** from Pakistan 🇵🇰.  
-With a strong background in **Computer Science, IT, and Programming**, I’m passionate about **understanding vulnerabilities, system behavior, and the principles of digital defense**.  
+I'm currently pursuing my **Bachelor’s in Cyber Security** from Pakistan 🇵🇰.  With a strong background in **Computer Science, IT, and Programming**, I’m passionate about **understanding vulnerabilities, system behavior, and the principles of digital defense**.  
 
 I’m continuously developing my technical expertise in both **offensive and defensive cybersecurity**, while strengthening my programming foundation to support secure system design.
 
