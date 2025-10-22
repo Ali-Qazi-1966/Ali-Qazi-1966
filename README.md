@@ -35,9 +35,12 @@ I’m continuously developing my technical expertise in both **offensive and def
 
 ### ⚙️ Tech Stack
 
-<p align="center" style="display: flex; flex-wrap: wrap; justify-content: center; align-items: center; gap: 10px;">
-  <img src="https://skillicons.dev/icons?i=cpp,java,python,ubuntu,git,vscode,visualstudio,html,css,kali,windows&perline=11" height="42" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" width="42" height="42" alt="Canva" style="vertical-align:middle;"/>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=cpp,java,python,ubuntu,git,vscode&perline=6" height="42" />
+</p>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=visualstudio,html,css,kali,windows&perline=5" height="42" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" width="42" height="42" alt="Canva" style="vertical-align:middle; margin-left:8px;" />
 </p>
 
 ---
