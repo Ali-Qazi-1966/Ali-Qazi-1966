@@ -9,7 +9,7 @@
 
 ### 🧠 About Me
 
-I'm currently pursuing my **Bachelor’s in Cyber Security** from Pakistan 🇵🇰.  With a strong background in **Computer Science, IT, and Programming**, I’m passionate about **understanding vulnerabilities, system behavior, and the principles of digital defense**.  
+I'm currently pursuing my **Bachelor’s in Cyber Security** from Pakistan 🇵🇰. With a strong background in **Computer Science, IT, and Programming**, I’m passionate about **understanding vulnerabilities, system behavior, and the principles of digital defense**.  
 
 I’m continuously developing my technical expertise in both **offensive and defensive cybersecurity**, while strengthening my programming foundation to support secure system design.
 
@@ -29,6 +29,7 @@ I’m continuously developing my technical expertise in both **offensive and def
 - 🧑‍💼 **Team Director** — led and organized multiple university-level events including business expos and sports Olympiads  
 - 🧑‍💻 **IT Lab Assistant** — provided technical support, managed systems, and assisted with network setup and troubleshooting  
 - 💡 **Developer** — working on projects that combine programming logic with cybersecurity applications  
+- 🎨 **Graphic Designer** — experienced with creating visuals and layouts using Canva  
 
 ---
 
@@ -36,10 +37,6 @@ I’m continuously developing my technical expertise in both **offensive and def
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=cpp,java,python,ubuntu,git,vscode,visualstudio,html,css,kali,windows,canva&perline=6" />
-</p>
-
-<p align="center">
-  🖌️ <b>Also skilled in:</b> <i>Graphic Designing using Canva</i>
 </p>
 
 ---
