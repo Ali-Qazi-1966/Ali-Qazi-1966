@@ -29,14 +29,16 @@ I’m continuously developing my technical expertise in both **offensive and def
 - 🧑‍💼 **Team Director** — led and organized multiple university-level events including business expos and sports Olympiads  
 - 🧑‍💻 **IT Lab Assistant** — provided technical support, managed systems, and assisted with network setup and troubleshooting  
 - 💡 **Developer** — working on projects that combine programming logic with cybersecurity applications  
-- 🎨 **Graphic Designer** — experienced with creating visuals and layouts using Canva  
+- 🎨 **Graphic Designer** — designed digital visuals, posters, and layouts for events and projects using **Canva**  
 
 ---
 
 ### ⚙️ Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=cpp,java,python,ubuntu,git,vscode,visualstudio,html,css,kali,windows,canva&perline=6" />
+  <img src="https://skillicons.dev/icons?i=cpp,java,python,ubuntu,git,vscode,visualstudio,html,css,kali,windows&perline=6" />
+  <br/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" width="48" height="48" alt="Canva logo" />
 </p>
 
 ---
