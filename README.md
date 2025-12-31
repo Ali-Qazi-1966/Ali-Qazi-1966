@@ -71,7 +71,7 @@ focused on **innovation, teamwork, and professional software development** with 
 <p align="center">
   <a href="mailto:aliabbasqazi@gmail.com"><img src="https://img.shields.io/badge/Email-58a6ff?style=for-the-badge&logo=gmail&logoColor=white" /></a>
   <a href="https://github.com/Ali-Qazi-1966"><img src="https://img.shields.io/badge/GitHub-161b22?style=for-the-badge&logo=github&logoColor=white" /></a>
-  <a href="https://www.linkedin.com/in/ali-qazi-1382842a4/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="www.linkedin.com/in/ali-abbas-qazi-1382842a4"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 </p>
 
 ---
